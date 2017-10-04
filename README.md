@@ -1,2 +1,2 @@
-# tsxForWebpack2Template
-TypeScript + React + Webpack2 template
+# tsxForWebpackTemplate
+TypeScript + React + Webpack template
