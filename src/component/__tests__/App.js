@@ -1,5 +1,5 @@
 const test = require('ava');
 
 test('nyarn', function(t) {
-  t.is(true, true);
+  t.is(false, true);
 });
