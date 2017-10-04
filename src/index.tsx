@@ -21,8 +21,6 @@ const reducer = (state, action) => {
         case 'ADD':
             return { arr: state.arr.concat({ nyan:  action.payload }) }
         case 'NO_ADD':
-            // const temp = 
-            // console.log(state.arr)
             return { arr: state.arr.concat()}
         default:
             return state
